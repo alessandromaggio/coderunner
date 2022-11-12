@@ -1,0 +1,19 @@
+{
+  "name": "coderunner",
+  "version": "0.0.1",
+  "description": "Tool to test and evaluate developers in a safe mode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alessandromaggio/coderunner.git"
+  },
+  "author": "Alessandro Maggio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alessandromaggio/coderunner/issues"
+  },
+  "homepage": "https://github.com/alessandromaggio/coderunner#readme"
+}
